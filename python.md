@@ -20,8 +20,7 @@ Internet connection to download the installer
 
 ## Installation Steps
 
-1. Download the installer: Go to the official Python website (https://www.python.org
-) and download the latest version of the installer for Windows.
+1. Download the installer: Go to the official [Python website](https://www.python.org/downloads/) and download the latest version of the installer for Windows.
 
 <kbd>![alt text](download.jpg)</kbd>
 
