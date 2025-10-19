@@ -39,7 +39,7 @@ During sign up, you'll be asked to verify your email address.
 
 ### Create a Repository
 
-1. Click <kbd>**New**</kbd> from top nawigation or dashboard **???**
+1. Click <kbd>**New**</kbd> on **Dashboard**
 
 
 <kbd>![New Repo](img/new_repo.jpg)</kbd>
@@ -56,7 +56,7 @@ During sign up, you'll be asked to verify your email address.
 
 ### Add and Edit Files
 
-1. Use **creating a new file** or **uploading existing file** link to upload or creating new files directly on GitHub.  
+1. Use **creating a new file** or **uploading existing file** link to create or upload new files directly on GitHub.  
 
 <kbd>![New file](img/new_file.jpg)</kbd>
 
@@ -65,15 +65,15 @@ During sign up, you'll be asked to verify your email address.
 Click the button <kbd>**Add file**</kbd> and choose one of the following:
 
 <kbd>![New Repo](img/new_file2.jpg)</kbd>
-
+  - **Create new files** - to write new file in your browser
   - **Upload files** - to add documents, images, code file or any  files. 
-  - **Create new files** to write new file in your browser. 
  
- 3. After uploading or editing a file scroll to the  **Commit changes** section you might write short description there or click the button directly
+ 3. After uploading or editing a file, scroll to the **Commit changes** section.  
+You can write a short description or click the commit button directly.
+
 
  <kbd>![Commit changes](img/commit_changes.jpg)</kbd>
 
-- No installation needed!
 
 
 ### Resources
