@@ -1,10 +1,10 @@
-# Getting Started with Git and GitHub for Beginners
+# Getting Started with GitHub for Beginners
 
 ## Introduction
 
-This beginner-friendly guide will help you install Git, set up your profile, create repositories, and push code to GitHub.
+This beginner-friendly guide will help you to set up your profile, create repositories, and push code to GitHub.
 
-You’ll learn two simple ways to get started: using GitHub directly in your browser or working locally with Git.
+You’ll learn two simple ways to get started: using GitHub directly in your browser.
 
 ## Table of Contents
 
