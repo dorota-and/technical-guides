@@ -1,12 +1,12 @@
 # Install Python on a Windows System
 
-[Introduction](#introduction)
+- [Introduction](#introduction)
 
-[Requirements](#requirements)
+- [Requirements](#requirements)
 
-[Installation Steps](#installation-steps)
+- [Installation Steps](#installation-steps)
 
-[Links](#links)
+- [Links](#links)
 
 
 ## Introduction 

@@ -9,47 +9,54 @@ You’ll learn two simple ways to get started: using GitHub directly in your bro
 ## Table of Contents
 
 - [Requirements](#requirements)
-- [Approach 1: Using GitHub Only (Web Interface)](#approach-1-using-github-only-web-interface)
+- [Using GitHub Only (Web Interface)](#using-github-only-web-interface)
   - [Create an Account](#create-an-account)
-  - [Create a Repository Online](#create-a-repository-online)
+  - [Create a Repository](#create-a-repository)
   - [Add and Edit Files](#add-and-edit-files)
-- [Approach 2: Using Git Locally with GitHub](#approach-2-using-git-locally-with-github)
-  - [Install Git](#install-git)
-  - [Set Up Git](#set-up-git)
-  - [Create a Local Repository](#create-a-local-repository)
-  - [Push Code to GitHub](#push-code-to-github)
-- [Common Git Commands](#common-git-commands)
 - [Resources](#resources)
 
 
 ## Requirements
-- Windows/macOS/Linux
+- Web browser
 - Internet connection
 - GitHub account (sign up at [https://github.com](https://github.com))  
 
-## Approach 1: Using GitHub Only (Web Interface)
+## Using GitHub Only (Web Interface)
 
 ### Create an Account
 
-Go to [github.com](https://github.com) and sign up for a free account.
+Go to [github.com](https://github.com) and sign up for a free account or click on <kbd>**Continue with Google**</kbd> to sign up using Google login.
 
-<--picture -->
+ Follow the prompts to create your personal account.
 
-### Create a Repository Online
 
-1. Click **New Repository**.  
+During sign up, you'll be asked to verify your email address. Without a verified email address, you won't be able to use all GitHub features.
+
+
+<kbd>![Sign up](img/sign_up.jpg)</kbd> 
+
+### Create a Repository
+
+1. Click <kbd>**New**</kbd>.  
+
+
+<kbd>![New Repo](img/new_repo.jpg)</kbd>
+
 2. Enter a repository name.  
 3. Choose Public or Private.  
-4. Click **Create repository**.
+4. Click <kbd>**Create repository**</kbd>.
+
+<kbd>![New Repo](img/new_repo2.jpg)</kbd>
 
 ### Add and Edit Files
 
-- Use the **Add file** button to upload or create new files directly on GitHub.  
-- You can edit files and commit changes right in your browser.  
+1. Use **creating a new file** link to upload or create new files directly on GitHub.  
+
+<kbd>![New Repo](img/new_file.jpg)</kbd>
+
+2. You can edit files and commit changes right in your browser.  
 - No installation needed!
 
-## Approach 2: Using Git Locally with GitHub
 
-### Install Git
 
 
