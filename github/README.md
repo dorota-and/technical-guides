@@ -30,21 +30,25 @@ Go to [github.com](https://github.com) and sign up for a free account or click o
  Follow the prompts to create your personal account.
 
 
-During sign up, you'll be asked to verify your email address. Without a verified email address, you won't be able to use all GitHub features.
+During sign up, you'll be asked to verify your email address.
+
+ Without a verified email address, you won't be able to use all GitHub features.
 
 
 <kbd>![Sign up](img/sign_up.jpg)</kbd> 
 
 ### Create a Repository
 
-1. Click <kbd>**New**</kbd>.  
+1. Click <kbd>**New**</kbd> from top nawigation or dashboard **???**
 
 
 <kbd>![New Repo](img/new_repo.jpg)</kbd>
 
 2. Enter a **Repository name**, e.g. `my-first-repo`.
 
-3. Choose visibility **Public** (anyone can see it) or **Private** (only for you). 
+3. Choose visibility 
+   - **Public** - anyone can see it,
+   - **Private** - only for you. 
 
 4. Click <kbd>**Create repository**</kbd>.
 
@@ -52,27 +56,38 @@ During sign up, you'll be asked to verify your email address. Without a verified
 
 ### Add and Edit Files
 
-1. Use **creating a new file** or **uploading existic file** link to upload or creating new files directly on GitHub.  
+1. Use **creating a new file** or **uploading existing file** link to upload or creating new files directly on GitHub.  
 
 <kbd>![New file](img/new_file.jpg)</kbd>
 
 2. You can edit files and commit changes right in your browser.
 
-Click the button **Add file** and choose one of the fallowing:
+Click the button <kbd>**Add file**</kbd> and choose one of the following:
 
 <kbd>![New Repo](img/new_file2.jpg)</kbd>
 
   - **Upload files** - to add documents, images, code file or any  files. 
   - **Create new files** to write new file in your browser. 
- 3. After uploading or editing a file scroll to the  **Commit changes** section you might writte short description there or click the button directly
+ 
+ 3. After uploading or editing a file scroll to the  **Commit changes** section you might write short description there or click the button directly
 
- <kbd>![Commit changes][img/commit_changes.jpg]</kbd>
+ <kbd>![Commit changes](img/commit_changes.jpg)</kbd>
 
 - No installation needed!
 
 
+### Resources
+
+- [GitHub Docs](https://docs.github.com/)
+- [Git Handbook (by GitHub)](https://guides.github.com/introduction/git-handbook/)
+- [GitHub Learning Lab](https://lab.github.com/)
+- [Learn Git Branching (interactive)](https://learngitbranching.js.org/)
+
+---
+*This guide is part of my personal portfolio to help beginners get started with GitHub. Feel free to share or fork it!*
 
 
 
 
-[img/commit_changes.jpg]: img/commit_changes.jpg
+
+
